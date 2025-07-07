@@ -20,7 +20,7 @@ A modern, fully responsive **news website** built using **React JS** and **Tailw
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/News-Website_My-First-Frontend_Project.git
+git clone https://github.com/yashraj230/News-Website_My-First-Frontend_Project.git
 cd News-Website_My-First-Frontend_Project
 
 # Install dependencies
