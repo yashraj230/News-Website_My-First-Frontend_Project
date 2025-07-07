@@ -1,6 +1,6 @@
 # 📰 News Website
 
-A modern, fully responsive **news website** built using **React JS** and **Tailwind CSS**. This project showcases a sleek frontend layout suitable for displaying news articles by category, headlines, and more — optimized for all devices.
+A modern, fully responsive **News Website** built using **React JS** and **Tailwind CSS**. This project showcases a sleek frontend layout suitable for displaying news articles by category, headlines, and more — optimized for all devices.
 
 ## 🚀 Features
 
@@ -14,7 +14,7 @@ A modern, fully responsive **news website** built using **React JS** and **Tailw
 
 - **React JS**
 - **Tailwind CSS**
-- **Create React App** (whichever you used)
+- **Create React App**
 
 ## 📦 Installation
 
@@ -27,4 +27,4 @@ cd News-Website_My-First-Frontend_Project
 npm install
 
 # Start development server
-npm run dev   # or npm start if using Create React App
+npm run dev   
